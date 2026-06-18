@@ -130,23 +130,6 @@ This dashboard helps organizations:
 - Track year-over-year growth
 - Support data-driven decision making
 
-## Project Structure
-
-```
-Sales-Dashboard/
-│
-├── Dashboard/
-│   └── Sales_Dashboard.twbx
-│
-├── Data/
-│   ├── Sales_Data.xlsx
-│   └── hexmap.xlsx
-│
-├── Documentation/
-│   └── Sales_Dashboard_Report.pdf
-│
-└── README.md
-```
 
 ## Future Improvements
 
